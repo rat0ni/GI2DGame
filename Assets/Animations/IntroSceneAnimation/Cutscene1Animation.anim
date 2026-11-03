@@ -23,7 +23,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1
+        value: 0.7431717
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -186,13 +186,13 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 21300000, guid: ed18efeedc5174780b64260f6a802574, type: 3}
-    - time: 3.2666667
-      value: {fileID: 21300000, guid: 00595f000b04f4e97934cb9e2976b8d5, type: 3}
-    - time: 6.766667
-      value: {fileID: 21300000, guid: 558eb2776e84f49d39f644e86f7923c6, type: 3}
-    - time: 10.25
-      value: {fileID: 21300000, guid: 4a767760d08be4d81a08f3a200975810, type: 3}
+      value: {fileID: 5408408030837312744, guid: 5059142c25209974fbb13930ea861e28, type: 3}
+    - time: 3.5
+      value: {fileID: -3638881250838836461, guid: 407c613b02a404a4bb05586df6748d01, type: 3}
+    - time: 7
+      value: {fileID: -3250415826186352604, guid: 2046492ae918c8c45ab84b56ff9f22f3, type: 3}
+    - time: 10.5
+      value: {fileID: 54926330526990366, guid: 76af80f2c3bfd5647ab908e01c047ab4, type: 3}
     attribute: m_Sprite
     path: ImageContainer/Image
     classID: 114
@@ -224,10 +224,10 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 21300000, guid: ed18efeedc5174780b64260f6a802574, type: 3}
-    - {fileID: 21300000, guid: 00595f000b04f4e97934cb9e2976b8d5, type: 3}
-    - {fileID: 21300000, guid: 558eb2776e84f49d39f644e86f7923c6, type: 3}
-    - {fileID: 21300000, guid: 4a767760d08be4d81a08f3a200975810, type: 3}
+    - {fileID: 5408408030837312744, guid: 5059142c25209974fbb13930ea861e28, type: 3}
+    - {fileID: -3638881250838836461, guid: 407c613b02a404a4bb05586df6748d01, type: 3}
+    - {fileID: -3250415826186352604, guid: 2046492ae918c8c45ab84b56ff9f22f3, type: 3}
+    - {fileID: 54926330526990366, guid: 76af80f2c3bfd5647ab908e01c047ab4, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -255,7 +255,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1
+        value: 0.7431717
         inSlope: 0
         outSlope: 0
         tangentMode: 136
